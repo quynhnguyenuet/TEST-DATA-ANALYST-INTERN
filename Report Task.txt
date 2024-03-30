@@ -1,0 +1,8 @@
+Report Task
+1. Có bao nhiêm khách hàng mua bảo hiểm xe và tỉ lệ bao nhiêu?
+2. Mối liên hệ giữa các nhóm tuổi và quyết định mua bao hiểm xe
+Có sự khác biệt về tỷ lệ mua bảo hiểm xe giữa các nhóm tuổi không? 
+3. Có sự khác biệt với tỉ lệ mua bảoo hiểm xe giữa các nghề nghiệp không? Các nhóm nghề nghiệpp nào thườngng có xu hướng mua bảoo hiểm xe cao hơn?
+4. Có sự khác biệt trong việc mua bảo hiểm xe giữa khách hàng độc thân và đã kết hôn?
+5. Có sự  mối tương quan giữa nhóm khách hàng có khoản vay nhà ở và khoản vay xe và quyết định mua bảo hiểm xe không?
+6.Tính ti lệ khách hàng có nhu cầu mua bảo hiểm xe của nhóm khách hàng có nợ xấu và không có nợ xấu
